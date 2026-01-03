@@ -34,7 +34,3 @@
 ![Cr-Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cr-harsh&show_icons=true&theme=radical)
 
 ---
-
-# ✍️ Random Dev Quote
-
-> "Your inspirational quote here"
