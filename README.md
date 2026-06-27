@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 
 1️⃣ **Currently working on:** Building Full-Stack and Generative AI applications using the MERN Stack, LangChain, and LLMs.
 
